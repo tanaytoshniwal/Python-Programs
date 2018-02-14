@@ -5,7 +5,6 @@ def gcd(a, b):
             return i
         else:
             i = i-1
-    return (common_factors[-1])
 
 def p(s):
     print(s)
